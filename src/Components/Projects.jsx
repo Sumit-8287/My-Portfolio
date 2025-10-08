@@ -7,7 +7,7 @@ import Petgromming from "../assets/Petgromming.jpeg";
 import Dairy from "../assets/Dairy.jpeg";
 import Builder from "../assets/Builder.jpeg";
 import Listingpage from "../assets/Listingpage.jpeg";
-import CommercialProperty from "../assets/CommercialProperty.jpeg";
+import Commercialproperty from "../assets/Commercialproperty.jpeg";
 
 const projects = [
   {
@@ -61,7 +61,7 @@ const projects = [
   {
     title: "Commercial Property Website",
     url: "https://hisarcommercialproject.netlify.app/",
-    img: CommercialProperty,
+    img: Commercialproperty,
     desc: "A commercial property website featuring listings and agent contact information.",
   },
 ];
